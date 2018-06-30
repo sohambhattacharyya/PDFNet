@@ -24,6 +24,7 @@ PDFNet = PDF-to-text + WaveNet(Tacotron)[Text-to-speech]
 *   [ ] Debug.
 *   [ ] Train with PDFs and respective audiobooks.
 *   [ ] Package and write the docs.
+*   [ ] _Add optional feature: text-summarization._
 
 ## Work Log:
 

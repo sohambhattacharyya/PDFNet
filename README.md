@@ -1,5 +1,7 @@
 # PDFNet
 
+PDFNet = PDF-to-text + WaveNet(Tacotron)[Text-to-speech]
+
 ## Milestones:
 
 *   [ ] Implement Tacotron.
